@@ -1,0 +1,19 @@
+@charset "utf-8" ;
+
+p
+{ 
+	background-color:yellow ; 
+ width: 100px;
+ height: 100px;
+ /*border khai báo đường viền*/
+ border:10px solid red ; 
+ border-right-color: blue ;
+ /* border- radius dùng để bẻ cong cạnh góc vuông */ 
+ border-radius: 100px; 
+ /* thuộc tính border-image dùng để sử dụng hình ảnh làm đường viền ( phần này chưa làm được ) */
+ 
+}
+div:visited
+{ 
+color: pink ; 
+}
